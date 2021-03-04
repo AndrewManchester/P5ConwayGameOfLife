@@ -1,4 +1,4 @@
-#Conway's Game of Life
+## Conway's Game of Life
 
 A P5 version.
 You can select cells, stop, start and clear the board.
@@ -32,7 +32,9 @@ This code
 ~~~  
 
 creates an array [ [row 0], [row 1],.... [row 19]]
+
 where say [row 0] are the cells in row 0
+
 [ cell 0, cell 1, cell2 ... cell19]
 
 variable cells is accessed using [row][col] 
