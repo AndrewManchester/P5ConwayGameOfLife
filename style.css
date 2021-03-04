@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+.counter {
+  display: inline;
+}
+
+button {
+  margin-bottom: 20px;
+  margin-left: 10px;
+}
+
+.hide {
+  visibility: hidden;
+}
